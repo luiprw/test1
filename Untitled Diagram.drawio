@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T09:58:48.726Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="7nhlB09qHB_vncmaHVTN" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T09:59:49.494Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="SOjHZuCEXJ1FbkmKdIa9" version="14.4.2" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="2031" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
         <mxCell id="YkJw-nBbiL5EOXAajBYS-101" value="post:open?id=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260.5" y="160" width="180" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="YkJw-nBbiL5EOXAajBYS-102" value="post:info?id=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YkJw-nBbiL5EOXAajBYS-102" value="post:info?id=2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="877" y="160" width="230" height="10" as="geometry" />
         </mxCell>
         <mxCell id="YkJw-nBbiL5EOXAajBYS-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YkJw-nBbiL5EOXAajBYS-102" target="YkJw-nBbiL5EOXAajBYS-102">
